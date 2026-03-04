@@ -16,7 +16,7 @@
 - 💻 Foco principal: **React.js, Tailwind CSS, Java e Spring**
 - 🔧 Em evolução contínua: **TypeScript, Node.js e APIs RESTful**
 - 🎨 Design: Prática em converter **Figma para código**
-- 🎓 Formação em **Ciência da Computação** Andamento - (Dez/2028)
+- 🎓 Formação em **Ciência da Computação** | Andamento - (Dez/2028)
 
 ---
 
