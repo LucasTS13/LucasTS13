@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Olá,%20eu%20sou%20o%20Lucas%20Teixeira%20dos%20%20Santos!%20👋&fontSize=30&fontAlign=50&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=55" alt="Header GitHub" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:333333,100:CCCCCC&text=Olá,%20eu%20sou%20o%20Lucas%20Teixeira%20dos%20%20Santos!%20👋&fontSize=30&fontAlign=50&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=55" alt="Header GitHub" />
 </div>
 <br/>
 
