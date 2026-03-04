@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Olá,%20eu%20sou%20o%20Lucas%20Teixeira%20dos%20%20Santos!%20👋&fontSize=30&fontAlign=50&fontAlignY=38&desc=Desenvolvedor%20Front-End%20|%20Full%20Stack&descAlignY=55" alt="Header GitHub" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Olá,%20eu%20sou%20o%20Lucas%20Teixeira%20dos%20%20Santos!%20👋&fontSize=30&fontAlign=50&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=55" alt="Header GitHub" />
 </div>
-
 <br/>
 
 <div align="center">
   <p>
-    <strong>Transformando designs complexos em interfaces performáticas, acessíveis e escaláveis.</strong>
-  </p>
-  <p>
-    Sou um estudante do CEFET/RJ em formação e buscando constante evolução como desenvolvedor Full Stack.
+    <strong> Sou um estudante do CEFET/RJ em formação e buscando constante evolução como desenvolvedor Full Stack.</strong>
   </p>
 </div>
 
@@ -17,9 +13,9 @@
 
 ### 🚀 Sobre Mim
 
-- 💻 Foco principal: **React.js, TypeScript e Tailwind CSS**
-- 🔧 Em evolução contínua no Backend: **Node.js, Java, Spring e APIs RESTful**
-- 🎨 Design na veia: Prática consolidada em converter **Figma para código** em alto nível
+- 💻 Foco principal: **React.js, Tailwind CSS, Java e Spring**
+- 🔧 Em evolução contínua: **TypeScript, Node.js e APIs RESTful**
+- 🎨 Design: Prática em converter **Figma para código**
 - 🎓 Formação em **Ciência da Computação** Andamento - (Dez/2028)
 
 ---
@@ -59,9 +55,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasTS13&theme=radical&background=0D1117&border=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak" />
   </a>
 </div>
-
-
-
 
 ---
 
